@@ -1,3 +1,7 @@
+il progetto è visibile anche sul mio profilo Tableau public al link:
+https://public.tableau.com/app/profile/giacomo.ginesi/viz/Analisivenditeperunagrossacatenadisupermercati/Profitsanalysis
+
+
 # Analisi vendite per una grossa catena di supermercati
 
 Superstore è un’azienda lungimirante che vuole mantenere solida la propria attività in Europa. Per ottenere i risultati migliori vuole prendere decisioni data-driven, per questo ha bisogno di un esperto dei dati (tu) che supporti l’azienda con gli strumenti migliori per raggiungere questo scopo.
